@@ -1,5 +1,5 @@
 <template>
-  <div>
+    <MyFirstComponent />
     <NuxtWelcome />
     <ContentDoc />
 </div>
